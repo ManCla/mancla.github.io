@@ -2,6 +2,7 @@
 
 This repository contains the preprints of all the papers I have co-authored.
 The pdf of all the papers can be found in the _papers_ directory.
+When applicable, also the link to the associated artifact is provided.
 
 ## Papers List 
 
