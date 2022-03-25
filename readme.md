@@ -1,10 +1,11 @@
 # Papers
 
 This repository contains the preprints of all the papers I have co-authored.
+The pdf of all the papers can be found in the _papers_ directory.
 
-The pdf of the papers can be found in the _papers_ directory.
+## Papers List 
 
-List of the papers in inverse chronological order:
+In inverse chronological order:
 
 | Year | Venue        | Title     |
 |:-----|--------------|-----------|
