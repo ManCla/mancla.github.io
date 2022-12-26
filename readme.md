@@ -1,12 +1,7 @@
 # Claudio Mandrioli
 
-test
-
-Hello visitor! This is a work in progress for my personal website :) for now it only contains the preprints to papers I co-authored.
-
-
-This repository contains the preprints of all the papers I have co-authored.
-The pdf of all the papers can be found in the _papers_ directory (also linked from this readme file).
+Hello visitor! This is a work in progress for my personal website :)
+For now it only contains the preprints to papers I co-authored.
 When applicable, also the link to the associated artifacts are provided.
 
 ## Selected Publications 
