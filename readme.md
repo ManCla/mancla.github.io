@@ -10,3 +10,7 @@ When applicable, also the link to the associated artifacts are provided.
 
 [Here](./publications.md) you can find the up-to-date list of my publications.
 
+# News
+
+ * *16-December-2022* I have successfully defended my PhD with the thesis titled _Control-Theoretical Perspective on Feedback-Based Systems Testing_
+ * *27-November-2022* I have won the _Frank Anger Memorial Award_!
