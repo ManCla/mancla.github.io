@@ -1,8 +1,7 @@
 # Publications 
 
-Here's the up-to-date list of papers I have co-authored with links to the preprints. When applicable, also the link to the associated artefacts are provided.
-
-The list is in inverse chronological order.
+Here is the up-to-date list of papers I have co-authored with links to the preprints (in inverse chronological order).
+When applicable, also the link to the associated artefacts are provided.
 
 ## Journals
 
