@@ -17,7 +17,11 @@ I leverage my background in control engineering to enhance the software engineer
 
 ## Publications
 
-[Here](./publications.md) you can find the up-to-date list of my publications.
+[Here](./PUBLICATIONS.md) you can find the up-to-date list of my publications.
+
+## Service
+
+[Here](./SERVICE.md) you can find my review and service activities.
 
 ## News
 
