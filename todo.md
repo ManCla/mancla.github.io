@@ -1,5 +1,6 @@
 
  * add contacts
+ * move links to service and publications to left-hand side of page
 
  * expand research interest section
  * include research on real-time systems
