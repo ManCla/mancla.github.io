@@ -15,13 +15,13 @@ I do research on software engineering for Cyber-Physical Systems (CPS).
 When testing CPS, interdisciplinary considerations are necessary. 
 I leverage my background in control engineering to enhance the software engineering techniques applied to such systems.
 
-## Publications
+## [Publications](./PUBLICATIONS.md)
 
-[Here](./PUBLICATIONS.md) you can find the up-to-date list of my publications.
+<!-- [Here](./PUBLICATIONS.md) you can find the up-to-date list of my publications. -->
 
-## Service
+## [Service](./SERVICE.md)
 
-[Here](./SERVICE.md) you can find my review and service activities.
+<!-- [Here](./SERVICE.md) you can find my review and service activities. -->
 
 ## News
 
