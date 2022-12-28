@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Claudio Mandrioli]
-description: [small text under logo]
+description: [   ]
 logo: ./assets/img/formal_color.jpg
