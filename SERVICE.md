@@ -13,4 +13,4 @@ I served as reviewer (or sub-reviewer) for the following conferences:
 
 I participated in the Organizing Committee of the following conference:
 
- * Symposium on Software Engineering for Adaptive and Self-Managing Systems 2022 (SEAMS), web chair
+ * web chair of [Symposium on Software Engineering for Adaptive and Self-Managing Systems](https://conf.researchr.org/home/seams-2022) 2022 (SEAMS)
