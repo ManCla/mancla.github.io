@@ -8,9 +8,9 @@ Previously, I obtained my master and bachelor degrees in Automation and Control 
 
 ## Research Interest
 
-I do research on software engineering for Cyber-Physical Systems.
+I do research on **Software Engineering** for **Cyber-Physical Systems**.
 When developing Cyber-Physical Systems, interdisciplinary considerations are necessary. 
-I leverage my background in control engineering to enhance the software verification and validation techniques that are applied to such systems.
+I leverage my background in Control Engineering to enhance the Software Verification and Validation techniques that are applied to such systems.
 
 During my PhD I also worked on the testing of Self-Adaptive Software and on the design of control algorithms that are aware of or robust to the non-idealities of their real-time execution.
 
