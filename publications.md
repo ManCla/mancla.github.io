@@ -2,7 +2,7 @@
 
 Here's the up-to-date list of papers I have co-authored with links to the preprints. When applicable, also the link to the associated artefacts are provided.
 
-In inverse chronological order.
+The list is in inverse chronological order.
 
 ## Journals
 
