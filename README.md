@@ -19,10 +19,10 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
  * **16-December-2022** I have successfully defended my PhD with the thesis titled _Control-Theoretical Perspective on Feedback-Based Systems Testing_. Check it out [here](https://lucris.lub.lu.se/ws/portalfiles/portal/128756726/Claudio_Mandrioli_thesis.pdf).
  * **27-November-2022** I have won the [_SIGBED-SIGSOFT Frank Anger Memorial Award_](https://sigbed.org/2022/09/19/frank-anger-memorial-award-2022/), sponsored by ACM! The Frank Anger Memorial Award promotes cross-disciplinary research between embedded systems and software engineering.
 
-## [Publications List](./PUBLICATIONS.md)
+<!-- ## [Publications List](./PUBLICATIONS.md) -->
 
 <!-- [Here](./PUBLICATIONS.md) you can find the up-to-date list of my publications. -->
 
-## [Service Activities](./SERVICE.md)
+<!-- ## [Service Activities](./SERVICE.md) -->
 
 <!-- [Here](./SERVICE.md) you can find my review and service activities. -->
