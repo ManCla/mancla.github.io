@@ -22,9 +22,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <h1><p class="view"><a href="{{ ./PUBLICATIONS.md }}">Publications List</a></p></h1>
+        <h2><p class="view"><a href="{{ ./PUBLICATIONS.md | relative_url }}">Publications List</a></p></h2>
         
-        <h1><p class="view"><a href="{{ ./SERVICE.md }}">Service Activities</a></p></h1>
+        <h2><p class="view"><a href="{{ ./SERVICE.md | relative_url }}">Service Activities</a></p></h2>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
