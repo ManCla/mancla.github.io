@@ -7,7 +7,7 @@ I served as reviewer for the following journals:
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
- * Brief-Presentations Track of Real-Time Systems Symposium (RTSS) 2021
+ * Brief-Presentations Track of Real-Time Systems Symposium 2021 (RTSS)
  * Euromicro Conference on Real-Time Systems 2021 (ECRTS), sub-reviewer for Martina Maggio
  * International Conference on Embedded Software 2021 (EmSoft), sub-reviewer for Martina Maggio
 
