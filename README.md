@@ -10,14 +10,14 @@ Previously, I obtained my master and bachelor degrees in Automation and Control 
 
 ## Research Interest
 
-I do research on **Software Engineering** for **Cyber-Physical Systems**.
-When developing Cyber-Physical Systems, interdisciplinary considerations are necessary. 
-I leverage my background in Control Engineering to enhance the Software Verification and Validation techniques that are applied to such systems.
+I do research on Software Engineering for **Cyber-Physical Systems**, focusing on their interdisciplinary nature.
+I leverage my background in Control Engineering to enhance the **Software Verification and Validation** techniques that are applied to such systems.
 
-During my PhD I also worked on the testing of Self-Adaptive Software and on the design of control algorithms that are aware of or robust to the non-idealities of their real-time execution.
+During my PhD I also worked on the testing of Self-Adaptive Software and on the design of control algorithms that are robust to the non-idealities of their real-time execution.
 
 ## News
 
+ * **2-January-2023** I am officially starting my postdoc in Luxembourg. Very excited for this new adventure!
  * **16-December-2022** I have successfully defended my PhD with the thesis titled _Control-Theoretical Perspective on Feedback-Based Systems Testing_. Check it out [here](https://lucris.lub.lu.se/ws/portalfiles/portal/128756726/Claudio_Mandrioli_thesis.pdf).
  * **27-November-2022** I have won the [_SIGBED-SIGSOFT Frank Anger Memorial Award_](https://sigbed.org/2022/09/19/frank-anger-memorial-award-2022/), sponsored by ACM! The Frank Anger Memorial Award promotes cross-disciplinary research between embedded systems and software engineering.
 
