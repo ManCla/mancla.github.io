@@ -2,7 +2,7 @@
 
 ## Short Bio
 
-I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/), headed by [Lionel Briand](https://www.lbriand.info/), University of Luxembourg, since January 2023.
+I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/), University of Luxembourg, headed by prof. [Lionel Briand](https://www.lbriand.info/), since January 2023.
 
 I received my PhD from Lund University, department of [Automatic Control](https://control.lth.se/), working with [Martina Maggio](https://www.martinamaggio.com/main/).
 During my PhD, I spent six month visiting the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/) at the University of Luxembourg working with [Seung Yeob Shin](https://wwwfr.uni.lu/snt/people/seung_yeob_shin), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
