@@ -13,7 +13,7 @@ Previously, I obtained my master and bachelor degrees in Automation and Control 
 I do research on Software Engineering for **Cyber-Physical Systems**, focusing on their interdisciplinary nature.
 I leverage my background in Control Engineering to enhance the **Software Verification and Validation** techniques that are applied to such systems.
 
-During my PhD I also worked on the testing of Self-Adaptive Software and on the design of control algorithms that are robust to the non-idealities of their real-time execution.
+During my PhD I also worked on the testing of Self-Adaptive Software and on the design of control algorithms robust to the non-idealities of their real-time execution.
 
 ## News
 
