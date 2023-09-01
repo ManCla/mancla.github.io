@@ -7,6 +7,8 @@ When applicable, also the link to the associated artefacts are provided.
 
 | Year | Venue    | Title     | Artifact |
 |:-----|----------|-----------|----------|
+| 2023 | TOSEM    | Stress Testing Control Loops in Cyber-Physical Systems (preprint soon available) | |
+| 2023 | TOSEM    | Testing Abstractions for Cyber-Physical Control Systems (preprint soon available) | |
 | 2021 | TSE      | [Testing Self-Adaptive Software with Probabilistic Guarantees on Performance Metrics: Extended and Comparative Results](https://github.com/ManCla/papers/blob/main/assets/pdfs/journal/2021_tse.pdf) | [tas&save](https://github.com/ManCla/ESEC-FSE-2020/tree/TSE_extension) [trapp](https://github.com/ManCla/TRAPP) | 
 
 ## Conferences
