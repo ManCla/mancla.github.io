@@ -8,7 +8,7 @@ When applicable, also the link to the associated artefacts are provided.
 | Year | Venue    | Title     | Artifact |
 |:-----|----------|-----------|----------|
 | 2023 | TOSEM    | [Stress Testing Control Loops in Cyber-Physical Systems](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2023_tosem_b_tmp.pdf) | [matlab](https://doi.org/10.5281/zenodo.7994698) [python](https://doi.org/10.5281/zenodo.7994669) |
-| 2023 | TOSEM    | [Testing Abstractions for Cyber-Physical Control Systems](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2023_tosem_a_tmp.pdf) | |
+| 2023 | TOSEM    | [Testing Abstractions for Cyber-Physical Control Systems](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2023_tosem_a_tmp.pdf) | [crazyflie](https://github.com/ManCla/testing-abstractions) |
 | 2021 | TSE      | [Testing Self-Adaptive Software with Probabilistic Guarantees on Performance Metrics: Extended and Comparative Results](https://github.com/ManCla/papers/blob/main/assets/pdfs/journal/2021_tse.pdf) | [tas&save](https://github.com/ManCla/ESEC-FSE-2020/tree/TSE_extension) [trapp](https://github.com/ManCla/TRAPP) | 
 
 ## Conferences
