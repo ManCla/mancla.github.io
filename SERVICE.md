@@ -7,6 +7,7 @@ I served as reviewer for the following journals:
  * Transactions on Software Engineering (**TSE**)
  * Transactions on Autonomous and Adaptive Systems (**TAAS**)
  * Transactions on Embedded Computing Systems (**TECS**)
+ * Transactions on Cyber-Physical Systems (**TCPS**)
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
