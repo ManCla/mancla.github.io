@@ -21,6 +21,12 @@ When applicable, also the link to the associated artefacts are provided.
 | 2019 | ICCPS    | [Modelling of Energy Consumption in GPS Receivers for Power Aware Localization Systems](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2019_iccps.pdf) | [repo](https://gitlab.control.lth.se/mmaggio/gps-modeling)
 | 2018 | CCTA     | [Dynamic Models for the Formal Verification of Big Data Applications via Stochastic Model Checking](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2018_ccta.pdf) | |
 
+## Theses
+
+| Year | Degree    | Title     |
+| 2022 | PhD       | [Control-Theoretical Perspective on Feedback-Based Systems Testing](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/theses/phd.pdf) |
+| 2017 | Master    | [Modeling and Verification of Big Data Computation](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/theses/master.pdf)|
+
 ## Workshops
 
 | Year | Venue    | Title     | Artifact |
