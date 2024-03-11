@@ -18,6 +18,9 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
+ * **9-January-2024** I gave the invited seminar _CPS Testing: Bridging the Gap between Software and Control Engineering_ to the Formal Methods for Software Design and Planningm Scheduling and Optimisation groups at the [Fondazione Bruno Kessler](https://www.fbk.eu).
+ * **21-November-2023** I visited the [Gran Sasso Science Institute](https://www.gssi.it) for a round table on Software Quality. I contributed with my talk _CPS Testing: Bridging the Gap between Software and Control Engineering_.
  * **2-January-2023** I am officially starting my postdoc in Luxembourg. Very excited for this new adventure!
  * **16-December-2022** I have successfully defended my PhD with the thesis titled _Control-Theoretical Perspective on Feedback-Based Systems Testing_. Check it out [here](https://lucris.lub.lu.se/ws/portalfiles/portal/128756726/Claudio_Mandrioli_thesis.pdf).
  * **27-November-2022** I have won the [_SIGBED-SIGSOFT Frank Anger Memorial Award_](https://sigbed.org/2022/09/19/frank-anger-memorial-award-2022/), sponsored by ACM! The Frank Anger Memorial Award promotes cross-disciplinary research between embedded systems and software engineering.
