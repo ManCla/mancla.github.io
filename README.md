@@ -18,7 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
- * I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
+ * **24-February-2024** I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
  * **9-January-2024** I gave the invited seminar _CPS Testing: Bridging the Gap between Software and Control Engineering_ to the Formal Methods for Software Design and Planningm Scheduling and Optimisation groups at the [Fondazione Bruno Kessler](https://www.fbk.eu).
  * **21-November-2023** I visited the [Gran Sasso Science Institute](https://www.gssi.it) for a round table on Software Quality. I contributed with my talk _CPS Testing: Bridging the Gap between Software and Control Engineering_.
  * **2-January-2023** I am officially starting my postdoc in Luxembourg. Very excited for this new adventure!
