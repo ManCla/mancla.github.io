@@ -11,7 +11,7 @@ I served as reviewer for the following journals:
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
- * Software Engineering Doctoral Symposium **SEDES** 2024 co-located with QUATIC.
+ * Software Engineering Doctoral Symposium **SEDES** 2024 co-located with QUATIC
  * Poster-Track of the International Conference on the Foundations of Software Engineering 2024 (**FSE**)
  * Brief-Presentations Track of Real-Time Systems Symposium 2021 (**RTSS**)
  * Euromicro Conference on Real-Time Systems 2021 (**ECRTS**, sub-reviewer for Martina Maggio)
