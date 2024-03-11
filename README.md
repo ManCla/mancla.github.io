@@ -2,10 +2,10 @@
 
 ## Short Bio
 
-I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/), University of Luxembourg, headed by prof. [Lionel Briand](https://www.lbriand.info/), since January 2023.
+I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/), University of Luxembourg, headed by prof. [Domenico Bianculli](https://people.svv.lu/bianculli/index.html), since January 2023.
 
 I received my PhD from Lund University, department of [Automatic Control](https://control.lth.se/), working with [Martina Maggio](https://www.martinamaggio.com/main/).
-During my PhD, I started collaborating with the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/) at the University of Luxembourg working with [Seung Yeob Shin](https://wwwfr.uni.lu/snt/people/seung_yeob_shin), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
+During my PhD, I started collaborating with the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/) at the University of Luxembourg working with [Seung Yeob Shin](https://www.uni.lu/snt-en/people/seung-yeob-shin/), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
 This collaboration led to my current position.
 Previously, I obtained my master and bachelor degrees in Automation and Control Engineering from [Politecnico di Milano](https://www.deib.polimi.it/eng/home-page), respectively in 2017 and 2015.
 
