@@ -18,6 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **11-March-2024** I will be part of the program committee for the 2024 Software Engineering Doctoral Symposium SEDES co-located with [QUATIC](https://2024.quatic.org)
  * **7-March-2024** I will be part of the selection committee for the 2024 [Frank Anger Memorial Award](https://sigbed.org/2024/01/22/frank-anger-memorial-award-2023/).
  * **24-February-2024** I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
  * **9-January-2024** I gave the invited seminar _CPS Testing: Bridging the Gap between Software and Control Engineering_ to the Formal Methods for Software Design and Planningm Scheduling and Optimisation groups at the [Fondazione Bruno Kessler](https://www.fbk.eu).
