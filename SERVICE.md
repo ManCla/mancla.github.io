@@ -21,3 +21,7 @@ I served as reviewer (or sub-reviewer) for the following conferences:
 I participated in the Organizing Committee of the following conference:
 
  * web chair of [Symposium on Software Engineering for Adaptive and Self-Managing Systems](https://conf.researchr.org/home/seams-2022) 2022 (**SEAMS**)
+
+## Other Service Activities
+
+ * selection committee for the [Frank Anger Memorial Award](https://sigbed.org/2024/01/22/frank-anger-memorial-award-2023/) 2024

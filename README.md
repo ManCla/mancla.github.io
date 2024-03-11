@@ -2,10 +2,10 @@
 
 ## Short Bio
 
-I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/), University of Luxembourg, headed by prof. [Domenico Bianculli](https://people.svv.lu/bianculli/index.html), since January 2023.
+I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://www.uni.lu/snt-en/research-groups/svv/), University of Luxembourg, headed by prof. [Domenico Bianculli](https://people.svv.lu/bianculli/index.html), since January 2023.
 
 I received my PhD from Lund University, department of [Automatic Control](https://control.lth.se/), working with [Martina Maggio](https://www.martinamaggio.com/main/).
-During my PhD, I started collaborating with the [Software Verification and Validation Lab](https://wwwfr.uni.lu/snt/research/software_verification_and_validation_lab/) at the University of Luxembourg working with [Seung Yeob Shin](https://www.uni.lu/snt-en/people/seung-yeob-shin/), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
+During my PhD, I started collaborating with the [Software Verification and Validation Lab](https://www.uni.lu/snt-en/research-groups/svv/) at the University of Luxembourg working with [Seung Yeob Shin](https://www.uni.lu/snt-en/people/seung-yeob-shin/), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
 This collaboration led to my current position.
 Previously, I obtained my master and bachelor degrees in Automation and Control Engineering from [Politecnico di Milano](https://www.deib.polimi.it/eng/home-page), respectively in 2017 and 2015.
 
@@ -18,6 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **7-March-2024** I will be part of the selection committee for the 2024 [Frank Anger Memorial Award](https://sigbed.org/2024/01/22/frank-anger-memorial-award-2023/)
  * **24-February-2024** I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
  * **9-January-2024** I gave the invited seminar _CPS Testing: Bridging the Gap between Software and Control Engineering_ to the Formal Methods for Software Design and Planningm Scheduling and Optimisation groups at the [Fondazione Bruno Kessler](https://www.fbk.eu).
  * **21-November-2023** I visited the [Gran Sasso Science Institute](https://www.gssi.it) for a round table on Software Quality. I contributed with my talk _CPS Testing: Bridging the Gap between Software and Control Engineering_.
