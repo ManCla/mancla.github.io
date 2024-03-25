@@ -18,6 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **19-March-2024** My MSCA-PF project ConTestCPS has been selected for funding!
  * **11-March-2024** I will be part of the program committee for the 2024 Software Engineering Doctoral Symposium SEDES co-located with [QUATIC](https://2024.quatic.org)
  * **7-March-2024** I will be part of the selection committee for the 2024 [Frank Anger Memorial Award](https://sigbed.org/2024/01/22/frank-anger-memorial-award-2023/).
  * **24-February-2024** I will be part of the PC for the [poster-track of FSE 2024](https://2024.esec-fse.org/track/fse-2024-posters).
