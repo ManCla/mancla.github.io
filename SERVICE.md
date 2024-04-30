@@ -2,9 +2,10 @@
 
 ## Review Activity
 
-I served as reviewer for the following journals:
+I served as reviewer for the following journals (an updated list with counter is available on [Web of Science](https://www.webofscience.com/wos/author/record/ABL-8873-2022)):
 
  * Transactions on Software Engineering (**TSE**)
+ * Transactions on Software Engineering and Methodology (**TOSEM**)
  * Transactions on Autonomous and Adaptive Systems (**TAAS**)
  * Transactions on Embedded Computing Systems (**TECS**)
  * Transactions on Cyber-Physical Systems (**TCPS**)
