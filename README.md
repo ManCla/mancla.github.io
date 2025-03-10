@@ -18,6 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **24-February-2025** I will serve in the Technical Program Committee of [EMSOFT](https://esweek.org/emsoft/).
  * **6-April-2024** I have been selected to participate to the [CPS Rising Stars workshop](https://risingstars.linklab.virginia.edu/2024/). Very grateful for this great opportunity and looking forward to visiting Charlottesville.
  * **19-March-2024** My MSCA-PF project ConTestCPS (CONtrol-theoretical TESTing of Cyber-Physical Systems) has been selected for funding!
  * **11-March-2024** I will be part of the program committee for the 2024 Software Engineering Doctoral Symposium SEDES co-located with [QUATIC](https://2024.quatic.org)
