@@ -12,6 +12,9 @@ I served as reviewer for the following journals (an updated list with counter is
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
+ * **SEFM** 2025 technical program committee
+ * **EMSOFT** 2025 technical program committee
+ * **FSE** 2025 artefact program committee
  * **FormaliSE** Artefact Evaluation 2025
  * Software Engineering Doctoral Symposium **SEDES** 2024 co-located with QUATIC
  * Poster-Track of the International Conference on the Foundations of Software Engineering 2024 (**FSE**)
