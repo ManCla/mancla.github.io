@@ -18,6 +18,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **10-March-2025** I will chair the Artefact Evaluation Program Committee of [EMSOFT](https://esweek.org/emsoft/).
  * **15-April-2025** I will serve in the Technical Program Committee of [SEFM](https://sefm-conference.github.io/2025/).
  * **24-February-2025** I will serve in the Technical Program Committee of [EMSOFT](https://esweek.org/emsoft/).
  * **6-April-2024** I have been selected to participate to the [CPS Rising Stars workshop](https://risingstars.linklab.virginia.edu/2024/). Very grateful for this great opportunity and looking forward to visiting Charlottesville.
