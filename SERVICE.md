@@ -24,10 +24,10 @@ I served as reviewer (or sub-reviewer) for the following conferences:
 
 ## Organizing Activity
 
-I participated in the Organizing Committee of the following conference:
+I participated in the Organizing Committee of the following conferences:
 
- * artefact evaluation program committee chair for [**EMSOFT**](https://esweek.org/emsoft/) 2025
- * web chair of [Symposium on Software Engineering for Adaptive and Self-Managing Systems](https://conf.researchr.org/home/seams-2022) 2022 (**SEAMS**)
+ * Artefact Evaluation Chair for [**EMSOFT**](https://esweek.org/emsoft/) 2025
+ * Web Chair of [Symposium on Software Engineering for Adaptive and Self-Managing Systems](https://conf.researchr.org/home/seams-2022) 2022 (**SEAMS**)
 
 ## Other Service Activities
 
