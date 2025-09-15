@@ -18,6 +18,7 @@ When applicable, also the link to the associated artefacts are provided.
 
 | Year | Venue    | Title     | Artifact |
 |:-----|--------------|-----------|----------|
+| 2025 | ASE NIER | [Fault Injection for Simulink-based CPS Models: Insights and Future Directions](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2025_ase_nier.pdf)
 | 2022 | RTAS     | [Deadline-Miss-Adaptive Controller Implementation for Real-Time Control Systems](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2022_rtas.pdf) | [zip](https://github.com/ManCla/papers/raw/main/assets/artifacts/rtas2022-artifact.zip)|
 | 2020 | FSE      | [Testing Self-Adaptive Software with Probabilistic Guarantees on Performance Metrics](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2020_fse.pdf)  **<span style="color: red;">ACM Distinguished Paper Award</span>**  | [repo](https://github.com/ManCla/ESEC-FSE-2020)|
 | 2019 | ECRTS    | [DMAC: Deadline-Miss-Aware Control](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2019_ecrts.pdf) | [repo](https://gitlab.control.lth.se/mmaggio/paolo-ecrts19) |
