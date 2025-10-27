@@ -3,6 +3,7 @@
 ## Short Bio
 
 I am a Research Associate (post-doc) at the [Software Verification and Validation Lab](https://www.uni.lu/snt-en/research-groups/svv/), University of Luxembourg, headed by prof. [Domenico Bianculli](https://people.svv.lu/bianculli/index.html), since January 2023.
+Currently, I am a Marie Skłodowska-Curie Actions Postdoctoral Fellow (MSCA-PF), working on my project _Control Theoretical Testing of Cyber-Physical Systems_ (ConTestCPS).
 
 I received my PhD from Lund University, department of [Automatic Control](https://control.lth.se/), working with [Martina Maggio](https://www.martinamaggio.com/main/).
 During my PhD, I started collaborating with the [Software Verification and Validation Lab](https://www.uni.lu/snt-en/research-groups/svv/) at the University of Luxembourg working with [Seung Yeob Shin](https://www.uni.lu/snt-en/people/seung-yeob-shin/), [Domenico Bianculli](https://people.svv.lu/bianculli/) and [Lionel Briand](https://www.lbriand.info/).
