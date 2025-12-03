@@ -19,6 +19,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **3-December-2025** Great news: our project _"FREELY" (Frequency-enhanced verification and validation of CPS)_ has been selected for funding. The project is a bilateral collaboration between the University of Luxembourg and TU Wien, involving, Prof. Domenico Bianculli, Prof. Ezio Bartocci, Dr. Drishti Yadav and myself. Stay tuned for phd and post-doc job openings!
  * **8-August-2025** Drishti's paper "Fault Injection for Simulink-based CPS Models: Insights and Future Directions" has been accepted at ASE for the NIER track!
  * **10-March-2025** I will chair the Artefact Evaluation of [EMSOFT](https://esweek.org/emsoft/).
  * **15-April-2025** I will serve in the Technical Program Committee of [SEFM](https://sefm-conference.github.io/2025/).
