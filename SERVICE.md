@@ -12,6 +12,7 @@ I served as reviewer for the following journals (an updated list with counter is
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
+ * **EMSOFT** 2026 technical program committee
  * **FormaliSE** Artefact Evaluation 2026
  * **SEFM** 2025 technical program committee
  * **EMSOFT** 2025 technical program committee
