@@ -6,6 +6,7 @@ I served as reviewer for the following journals (an updated list with counter is
 
  * Transactions on Software Engineering (**TSE**)
  * Transactions on Software Engineering and Methodology (**TOSEM**)
+ * Journal of Systems and Software (**JSS**)
  * Transactions on Autonomous and Adaptive Systems (**TAAS**)
  * Transactions on Embedded Computing Systems (**TECS**)
  * Transactions on Cyber-Physical Systems (**TCPS**)
