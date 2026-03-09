@@ -7,6 +7,7 @@ When applicable, also the link to the associated artefacts are provided.
 
 | Year | Venue    | Title     | Artifact |
 |:-----|----------|-----------|----------|
+| 2026 | TSE      | Diagnosing Violations of State-based Specifications in iCFTL| 
 | 2025 | TSE      | [Testing CPS with Design Assumptions-Based Metamorphic Relations and Genetic Programming](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2025_tse.pdf)| [mt4cps](https://doi.org/10.6084/m9.figshare.26303992.v1)
 | 2025 | TOSEM-RCR | [Stress Testing Control Loops in Cyber-Physical Systems - RCR](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2025_tosem_rcr_b_tmp.pdf) | |
 | 2025 | TOSEM-RCR | [Testing Abstractions for Cyber-Physical Control Systems - RCR](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2025_tosem_rcr_a_tmp.pdf) | |
