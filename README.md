@@ -19,6 +19,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **14-April-2026** I am part of the program committee of the Student Research Competition track at ICSE 2027
  * **14-April-2026** I am part of the program committee of SEFM 2026. Nice to be re-invited!
  * **24-February-2026** Cristina's paper on ["Diagnosing Violations of State-based Specifications in iCFTL"](https://ieeexplore.ieee.org/abstract/document/11408937) has been accepted for publication on IEEE TSE!
  * **4-February-2026** I am part of the program committee of ISSTA 2026
