@@ -19,6 +19,7 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **14-April-2026** I am part of the program committee of SEFM 2026. Nice to be re-invited!
  * **24-February-2026** Cristina's paper on ["Diagnosing Violations of State-based Specifications in iCFTL"](https://ieeexplore.ieee.org/abstract/document/11408937) has been accepted for publication on IEEE TSE!
  * **4-February-2026** I am part of the program committee of ISSTA 2026
  * **3-December-2025** **<span style="color: red;">Great news: our project _"FREELY" (Frequency-enhanced verification and validation of CPS)_ has been selected for funding</span>**. The project is a bilateral collaboration between the University of Luxembourg and TU Wien, involving, Prof. Domenico Bianculli (PI), Prof. Ezio Bartocci (co-PI), Dr. Drishti Yadav and myself. Stay tuned for phd and post-doc job openings!
