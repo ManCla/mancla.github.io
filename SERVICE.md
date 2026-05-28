@@ -13,6 +13,7 @@ I served as reviewer for the following journals (an updated list with counter is
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
+ * **SBMF** 2026 technical program committee
  * **ICSE** student research competition 2027 program committee
  * **SEFM** 2026 technical program committee
  * **EMSOFT** 2026 technical program committee
