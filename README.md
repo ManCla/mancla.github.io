@@ -19,6 +19,8 @@ During my PhD I also worked on the testing of Self-Adaptive Software and on the 
 
 ## News
 
+ * **21-July-2026** Our paper ["Testing CPS With Design Assumptions-Based Metamorphic Relations and Genetic Programming"](https://doi.org/10.1109/TSE.2025.3563121) was selected as **runner-up of the 2025 best paper award** for IEEE TSE. This is a paper that I am particularly proud of and receiving such recognition from the community for its quality is a great feeling!
+ * **17-July-2026** Melanie and Marc paper on "Comparing Controller Synthesis Methods with Deadline-Miss Awareness" was accepted at EMSOFT 2026!
  * **28-May-2026** I am part of the technical program committee of the Brazilian Symposium on Formal Methods
  * **14-April-2026** I am part of the program committee of the Student Research Competition track at ICSE 2027
  * **14-April-2026** I am part of the program committee of SEFM 2026. Nice to be re-invited!
