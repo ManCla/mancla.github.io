@@ -7,7 +7,7 @@ When applicable, also the link to the associated artefacts are provided.
 
 | Year | Venue    | Title     | Artifact |
 |:-----|----------|-----------|----------|
-| 2026 | TECS (EMSOFT)| Comparing Controller Synthesis Methods with Deadline-Miss Awareness |  |
+| 2026 | TCAD (EMSOFT)| Comparing Controller Synthesis Methods with Deadline-Miss Awareness |  |
 | 2026 | TSE      | [Diagnosing Violations of State-based Specifications in iCFTL](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2026_tse.pdf)| [tool&experiments](https://doi.org/10.6084/m9.figshare.29666057) |
 | 2025 | TSE      | [Testing CPS with Design Assumptions-Based Metamorphic Relations and Genetic Programming](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2025_tse.pdf) **<span style="color: red;">runner-up for TSE'25 Best Paper</span>** | [mt4cps](https://doi.org/10.6084/m9.figshare.26303992.v1) |
 | 2025 | TOSEM-RCR | [Stress Testing Control Loops in Cyber-Physical Systems - RCR](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2025_tosem_rcr_b_tmp.pdf) | |
