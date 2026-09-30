@@ -13,6 +13,7 @@ I served as reviewer for the following journals (an updated list with counter is
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
+ * **FormaliSE** Artefact Evaluation 2027
  * **ICSE** student research competition 2027 program committee
  * **SBMF** 2026 technical program committee
  * **SEFM** 2026 technical program committee
