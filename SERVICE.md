@@ -9,6 +9,7 @@ I served as reviewer for the following journals (an updated list with counter is
  * Empirical Software Engineering (**EMSE**)
  * Journal of Logical and Algebraic Methods in Programming (**JLAMP**)
  * Journal of Systems and Software (**JSS**)
+ * Science of Computer Programming (**SCP**)
  * Transactions on Autonomous and Adaptive Systems (**TAAS**)
  * Transactions on Embedded Computing Systems (**TECS**)
  * Transactions on Cyber-Physical Systems (**TCPS**)
