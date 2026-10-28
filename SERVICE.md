@@ -21,7 +21,7 @@ I served as reviewer (or sub-reviewer) for the following conferences:
  * **SBMF** 2026 technical program committee
  * **SEFM** 2026 technical program committee
  * **EMSOFT** 2026 technical program committee
- * **ISSTA** 2026 technical program committee (*distinguished reviewer*)
+ * **ISSTA** 2026 technical program committee (**<span style="color: red;">Distinguished Reviewer</span>**)
  * **FormaliSE** Artefact Evaluation 2026
  * **SEFM** 2025 technical program committee
  * **EMSOFT** 2025 technical program committee
