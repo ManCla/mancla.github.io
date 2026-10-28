@@ -19,9 +19,10 @@ In my [Stress Testing Control Loops in Cyber-Physical Systems](https://github.co
 
 ## Design of Controllers Robust to Timing Faults
 
-Control algorithms are traditionally designed under the assumption that they execute at a fixed, constant rate (_yes, this is closely related to the design-assumptions mentioned above!_).
+Control algorithms are traditionally designed under the assumption that they execute at a fixed, constant rate (_yes, this is closely related to the design-assumptions!_).
 However, to ensure timing guarantees, this assumption can lead to overly conservative design of the underlying real-time system, while still leaving systems vulnerable to timing faults that degrade performance.
 
+ * If you want an overview of the state of the art approaches, of the trade-off that each of them implements, and a benchmark for comparison, check out [Comparing Controller Synthesis Methods with Deadline-Miss Awareness](https://github.com/ManCla/mancla.github.io/blob/main/assets/pdfs/journal/2026_tcad.pdf)
  * If you are curious about how to design controllers that work a a low sampling rate and intentionally miss some deadlines, while still improving performance, have a look at [Deadline-Miss-Adaptive Controller Implementation for Real-Time Control Systems](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2022_rtas.pdf).
  * If you are interested in an push-button approach to make your control algorithm a lot more robust to timing faults, have a look at [DMAC: Deadline-Miss-Aware Control](https://github.com/ManCla/papers/blob/main/assets/pdfs/conference/2019_ecrts.pdf).
 
