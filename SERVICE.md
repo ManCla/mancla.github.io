@@ -16,22 +16,22 @@ I served as reviewer for the following journals (an updated list with counter is
 
 I served as reviewer (or sub-reviewer) for the following conferences:
 
- * **FormaliSE** Artefact Evaluation 2027
- * **ICSE** student research competition 2027 program committee
- * **SBMF** 2026 technical program committee
- * **SEFM** 2026 technical program committee
- * **EMSOFT** 2026 technical program committee
- * **ISSTA** 2026 technical program committee (**<span style="color: red;">Distinguished Reviewer</span>**)
- * **FormaliSE** Artefact Evaluation 2026
- * **SEFM** 2025 technical program committee
- * **EMSOFT** 2025 technical program committee
- * **FSE** 2025 artefact program committee
- * **FormaliSE** Artefact Evaluation 2025
- * Software Engineering Doctoral Symposium **SEDES** 2024 co-located with QUATIC
- * Poster-Track of the International Conference on the Foundations of Software Engineering 2024 (**FSE**)
- * Brief-Presentations Track of Real-Time Systems Symposium 2021 (**RTSS**)
- * Euromicro Conference on Real-Time Systems 2021 (**ECRTS**, sub-reviewer for Martina Maggio)
- * International Conference on Embedded Software 2021 (**EmSoft**, sub-reviewer for Martina Maggio)
+ * **FORMALISE** artefact evaluation 2027
+ * **ICSE** student research competition program committee 2027
+ * **SBMF** technical program committee 2026
+ * **SEFM** technical program committee 2026
+ * **EMSOFT** technical program committee 2026
+ * **ISSTA** technical program committee 2026 (**<span style="color: red;">Distinguished Reviewer</span>**)
+ * **FORMALISE** artefact evaluation 2026
+ * **SEFM** technical program committee 2025
+ * **EMSOFT** technical program committee 2025
+ * **FSE** artefact program committee 2025
+ * **FORMALISE** artefact evaluation 2025
+ * **SEDES** Software Engineering Doctoral Symposium 2024 co-located with QUATIC
+ * **FSE** poster track program committee 2024
+ * **RTSS** brief-presentations track 2021
+ * **ECRTS** program committee (sub-reviewer for Martina Maggio) 2021
+ * **EMSOFT** program committee (sub-reviewer for Martina Maggio) 2021
 
 ## Organizing Activity
 
